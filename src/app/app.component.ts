@@ -9,7 +9,7 @@ import { RouterOutlet, RouterLink } from '@angular/router';
     <nav class="top-nav">
       <div class="nav-container">
         <div class="nav-brand">
-          <a routerLink="/">Preview Site</a>
+          <a routerLink="/">PREVIEW HELLO</a>
         </div>
         <ul class="nav-links">
           <li><a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">Home</a></li>
